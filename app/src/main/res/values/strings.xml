@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="title">Calculadora de IMC</string>
+    <string name="Weight">Peso (kg)</string>
+    <string name="text_weight">Preencha com seu peso</string>
+    <string name="height">Altura (m)</string>
+    <string name="text_height">Preencha com sua altura</string>
+    <string name="button_calculate">CALCULAR</string>
+    <string name="result">Resultado:</string>
+    <string name="imc_result">IMC: 0</string>
+    <string name="imc_text_result">Esperando os dados...</string>
+    <string name="validate_fields">Preencha todos os campos...</string>
+
+    <string name="result1">Muito abaixo do peso</string>
+    <string name="result2">Abaixo do peso</string>
+    <string name="result3">Peso normal</string>
+    <string name="result4">Acima do peso</string>
+    <string name="result5">Obesidade I</string>
+    <string name="result6">Obesidade II (severa)</string>
+    <string name="result7">Obesidade III (mórbida)</string>
+</resources>
